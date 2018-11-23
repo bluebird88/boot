@@ -14,11 +14,11 @@ spring:
     date-format: YYYY-MM-DD
     joda-date-time-format: YYYY-MM-DD HH:mm:ss
 
-  redis:
-    database: 0
-    host: localhost
-    password:
-    port: 6379
+#  redis:
+#    database: 0
+#    host: localhost
+#    password:
+#    port: 6379
 
   thymeleaf:
     mode: HTML5
@@ -49,9 +49,9 @@ spring:
    profiles: dev
    datasource:
      driver-class-name: com.mysql.jdbc.Driver
-     username: eop
-     url: jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&createDatabaseIfNotExist=true
-     password: 123456
+     username: root
+     url: jdbc:mysql://116.62.16.229:3306/bootdb?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&createDatabaseIfNotExist=true
+     password: root
      type:  com.alibaba.druid.pool.DruidDataSource
      druid:
        filters: config
@@ -72,9 +72,9 @@ spring:
    profiles: test
    datasource:
      driver-class-name: com.mysql.jdbc.Driver
-     username: eop
-     url: jdbc:mysql://127.0.0.1:3306/wifi2?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&createDatabaseIfNotExist=true
-     password: eop@eop
+     username: root
+     url: jdbc:mysql://116.62.16.229/wifi2?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&createDatabaseIfNotExist=true
+     password: root
      type:  com.alibaba.druid.pool.DruidDataSource
      druid:
        filters: config

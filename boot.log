@@ -1,0 +1,66 @@
+2018-11-22 10:24:21.994 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:25:42.949 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:34:15.959 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:37:24.831 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:39:06.741 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:40:01.461 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:40:30.513 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:43:38.146 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:45:12.092 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:47:20.198 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:47:54.941 [http-nio-8082-exec-1] INFO  c.x.boot.interceptor.CsrfInterceptor -
+                preHandle request agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36, referer=null,URI=/error
+2018-11-22 10:47:54.988 [http-nio-8082-exec-1] INFO  c.x.b.interceptor.ErrorInterceptor -
+                uri=/error,status=404
+2018-11-22 10:49:53.292 [http-nio-8082-exec-5] INFO  c.x.boot.interceptor.CsrfInterceptor -
+                preHandle request agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36, referer=null,URI=/error
+2018-11-22 10:49:53.294 [http-nio-8082-exec-5] INFO  c.x.b.interceptor.ErrorInterceptor -
+                uri=/error,status=404
+2018-11-22 10:49:54.866 [http-nio-8082-exec-6] INFO  c.x.boot.interceptor.CsrfInterceptor -
+                preHandle request agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36, referer=null,URI=/error
+2018-11-22 10:49:54.869 [http-nio-8082-exec-6] INFO  c.x.b.interceptor.ErrorInterceptor -
+                uri=/error,status=404
+2018-11-22 10:50:08.322 [http-nio-8082-exec-9] INFO  c.x.boot.interceptor.CsrfInterceptor -
+                preHandle request agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36, referer=null,URI=/api/list
+2018-11-22 10:50:08.349 [http-nio-8082-exec-9] INFO  c.x.b.interceptor.ErrorInterceptor -
+                uri=/api/list,status=200
+2018-11-22 10:50:25.222 [http-nio-8082-exec-1] INFO  c.x.boot.interceptor.CsrfInterceptor -
+                preHandle request agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36, referer=null,URI=/error
+2018-11-22 10:50:25.226 [http-nio-8082-exec-1] INFO  c.x.b.interceptor.ErrorInterceptor -
+                uri=/error,status=404
+2018-11-22 10:50:33.216 [http-nio-8082-exec-2] INFO  c.x.boot.interceptor.CsrfInterceptor -
+                preHandle request agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36, referer=null,URI=/error
+2018-11-22 10:50:33.218 [http-nio-8082-exec-2] INFO  c.x.b.interceptor.ErrorInterceptor -
+                uri=/error,status=404
+2018-11-22 10:50:38.081 [http-nio-8082-exec-5] INFO  c.x.boot.interceptor.CsrfInterceptor -
+                preHandle request agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36, referer=null,URI=/error
+2018-11-22 10:50:38.087 [http-nio-8082-exec-5] INFO  c.x.b.interceptor.ErrorInterceptor -
+                uri=/error,status=405
+2018-11-22 10:51:50.381 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......
+2018-11-22 10:52:04.352 [http-nio-8082-exec-1] INFO  c.x.boot.interceptor.CsrfInterceptor -
+                preHandle request agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36, referer=null,URI=/error
+2018-11-22 10:52:04.379 [http-nio-8082-exec-1] INFO  c.x.b.interceptor.ErrorInterceptor -
+                uri=/error,status=404
+2018-11-22 10:52:18.767 [http-nio-8082-exec-2] INFO  c.x.boot.interceptor.CsrfInterceptor -
+                preHandle request agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36, referer=null,URI=/user/list/1/5
+2018-11-22 10:52:18.858 [http-nio-8082-exec-2] DEBUG c.x.b.dao.IUserDao.queryList_COUNT -
+                ==>  Preparing: SELECT count(0) FROM user 
+2018-11-22 10:52:18.903 [http-nio-8082-exec-2] DEBUG c.x.b.dao.IUserDao.queryList_COUNT -
+                ==> Parameters: 
+2018-11-22 10:52:18.991 [http-nio-8082-exec-2] DEBUG c.x.b.dao.IUserDao.queryList_COUNT -
+                <==      Total: 1
+2018-11-22 10:52:19.027 [http-nio-8082-exec-2] INFO  c.x.b.interceptor.ErrorInterceptor -
+                uri=/user/list/1/5,status=200
+2018-11-23 11:01:25.667 [main] INFO  c.xwolf.boot.config.DataSourceConfig -
+                数据库连接池配置中......

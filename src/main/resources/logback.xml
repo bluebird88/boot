@@ -12,7 +12,7 @@
     <!-- 文件输出日志 (文件大小策略进行文件输出，超过指定大小对文件备份) -->
     <appender name="FILE"
               class="ch.qos.logback.core.rolling.RollingFileAppender">
-        <File>/var/log/boot/boot.log</File>
+        <File>/Users/jbi/workspace/springframework/boot/boot.log</File>
         <rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
             <FileNamePattern>boot.log.%i.bak</FileNamePattern>
             <MinIndex>1</MinIndex>
